@@ -23,3 +23,8 @@ The diagram illustrates the movement of data between actors, processes, and data
 - **Data Stores:** Users DB, Properties DB, Bookings DB, Payments DB
 
 The final diagram is saved in this directory:
+## Deliverables
+- `Airbnb-Clone-DFD.png`
+- `README.md`
+
+![Features](./data-flow-diagram.png)
