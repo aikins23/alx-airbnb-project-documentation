@@ -1,0 +1,1 @@
+This Directory shows the translation of use case diagrams to theory user-stories which explains concepts
