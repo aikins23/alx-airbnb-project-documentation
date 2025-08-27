@@ -2,4 +2,5 @@
 
 This diagram shows the core backend features required for the Airbnb Clone project.
 
-![Features](./main backend features_diagram.png/)
+![Features](./main%20backend%20features_diagram.png)
+
